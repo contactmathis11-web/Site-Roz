@@ -1,12 +1,13 @@
 [
-  { "id": 1, "title": "Activité 1", "image": "images/act1.jpg" },
-  { "id": 2, "title": "Activité 2", "image": "images/act2.jpg" },
-  { "id": 3, "title": "Activité 3", "image": "images/act3.jpg" },
-  { "id": 4, "title": "Activité 4", "image": "images/act4.jpg" },
-  { "id": 5, "title": "Activité 5", "image": "images/act5.jpg" },
-  { "id": 6, "title": "Activité 6", "image": "images/act6.jpg" },
-  { "id": 7, "title": "Activité 7", "image": "images/act7.jpg" },
-  { "id": 8, "title": "Activité 8", "image": "images/act8.jpg" },
-  { "id": 9, "title": "Activité 9", "image": "images/act9.jpg" },
-  { "id": 10, "title": "Activité 10", "image": "images/act10.jpg" }
+  { "id": 1, "title": "Activité 1", "image": "act1.jpg" },
+  { "id": 2, "title": "Activité 2", "image": "act2.jpg" },
+  { "id": 3, "title": "Activité 3", "image": "act3.jpg" },
+  { "id": 4, "title": "Activité 4", "image": "act4.jpg" },
+  { "id": 5, "title": "Activité 5", "image": "act5.jpg" },
+  { "id": 6, "title": "Activité 6", "image": "act6.jpg" },
+  { "id": 7, "title": "Activité 7", "image": "act7.jpg" },
+  { "id": 8, "title": "Activité 8", "image": "act8.jpg" },
+  { "id": 9, "title": "Activité 9", "image": "act9.jpg" },
+  { "id": 10, "title": "Activité 10", "image": "act10.jpg" }
+
 ]
